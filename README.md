@@ -37,7 +37,7 @@
 </p>
 
 # Statistics
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oaat9309)](https://github.com/oaat9309/github-readme-stats)
+  ![image](https://user-images.githubusercontent.com/90079595/150879483-307f6ba2-0578-4c11-b08d-6df666bb23d3.png)
 
 
 # Contact
