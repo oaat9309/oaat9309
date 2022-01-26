@@ -37,7 +37,7 @@
 </p>
 
 # Statistics
-  ![image](https://user-images.githubusercontent.com/90079595/150879483-307f6ba2-0578-4c11-b08d-6df666bb23d3.png)
+  ![image](https://user-images.githubusercontent.com/90079595/151152499-4dfbffc9-5c65-40d2-a397-479d65bc81f9.png)
 
 
 # Contact
