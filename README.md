@@ -37,12 +37,12 @@
 </p>
 
 # Statistics
-  ![image](https://user-images.githubusercontent.com/90079595/152338339-0720ae1b-018e-4176-8429-430041528702.png)
+  ![image](https://user-images.githubusercontent.com/90079595/154661163-bd5dad9e-4494-4bd9-b682-c33323725f76.png)
 
 
 # Contact
 <p align="center">
-  <a href="https://velog.io/@kite1993" target="_blank"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="https://velog.io/@kite1993" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="mailto:kite1993@naver.com" target="_blank"><img src="https://img.shields.io/badge/kite1993@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://www.instagram.com/oaat9309/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
