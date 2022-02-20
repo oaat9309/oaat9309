@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </p>
 
 <h3 align="center">JavaScript & Frameworks</h3>
@@ -37,7 +38,9 @@
 </p>
 
 # Statistics
-  ![image](https://user-images.githubusercontent.com/90079595/154661163-bd5dad9e-4494-4bd9-b682-c33323725f76.png)
+ ![image](https://user-images.githubusercontent.com/90079595/154836739-6535ac70-76da-47d7-b22f-12739a69959d.png)
+![image](https://user-images.githubusercontent.com/90079595/154836748-4d63e17f-af53-4f93-b197-2493a8995704.png)
+
 
 
 # Contact
