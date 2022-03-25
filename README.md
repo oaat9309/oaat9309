@@ -38,9 +38,16 @@
 </p>
 
 # Statistics
- ![image](https://user-images.githubusercontent.com/90079595/154836739-6535ac70-76da-47d7-b22f-12739a69959d.png)
-![image](https://user-images.githubusercontent.com/90079595/154836748-4d63e17f-af53-4f93-b197-2493a8995704.png)
-
+ <p align="center">
+  <a href="https://github.com/oaat9309">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaat9309&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=${가리고 싶은 언어}" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/oaat9309">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=oaat9309&hide=${가릴항목}&hide_title=true&show_icons=true&include_all_commits=false&theme=nord" />
+  </a>
+</p>
 
 
 # Contact
