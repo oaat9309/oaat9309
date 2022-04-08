@@ -38,12 +38,13 @@
 # Statistics
  <p align="center">
   <a href="https://github.com/oaat9309">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaat9309&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=${가리고 싶은 언어}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaat9309&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=${}" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/oaat9309">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=oaat9309&hide=${가릴항목}&hide_title=true&show_icons=true&include_all_commits=false&theme=nord" />
+   
   </a>
 </p>
 
