@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=oaat9309&fontSize=70&fontColor=fff)
 
+# About Me
+
+- Front-end를 목표로 하는 초보 개발자입니다.
+
 
 # Tech Stack
 
