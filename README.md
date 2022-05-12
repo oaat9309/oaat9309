@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=oaat9309&fontSize=70&fontColor=fff)
 
+## Currently joining KDT-STFE
+## Working hard to be an FE Developer
+
 # Tech Stack
 
 <h3 align="center">Web Development Basics</h3>
@@ -14,7 +17,6 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
 </p>
 
 <h3 align="center">JS & Frameworks</h3>
