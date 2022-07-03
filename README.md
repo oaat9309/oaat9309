@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=oaat9309&fontSize=70&fontColor=fff)
-
 # Tech Stack
 
 <h3>Web Development Basics</h3>
