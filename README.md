@@ -3,7 +3,7 @@
 
 # Tech Stack
 
-<h3>Basics</h3>
+<h3>Basic Frontend</h3>
 <p>
 <img src="https://img.shields.io/badge/HTML5-ff4500?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1E90FF?style=flat-square&logo=CSS3&logoColor=white"/>
