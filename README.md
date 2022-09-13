@@ -24,7 +24,7 @@
  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
 </p>
 
-<h3>BackEnd-for-FrontEnd</h3>
+<h3>BackEnd for FrontEnd</h3>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
